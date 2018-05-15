@@ -1,4 +1,4 @@
-package main.java.edu.gitexample;
+package edu.gitexample;
 
 public class Person {
     private String name;
